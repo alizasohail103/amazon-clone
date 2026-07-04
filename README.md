@@ -22,7 +22,7 @@ This project recreates the look and layout of the Amazon homepage for learning a
 
 ## 📂 Project Structure
 
-```
+```text
 amazon-clone/
 │
 ├── index.html
@@ -38,7 +38,9 @@ amazon-clone/
     ├── box5_image.jpg
     ├── box6_image.jpg
     ├── box7_image.jpg
-    └── box8_image.jpg
+    ├── box8_image.jpg
+    ├── Screenshot1.png
+    └── Screenshot2.png
 ```
 
 ## 🎯 Purpose
