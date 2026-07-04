@@ -1,28 +1,19 @@
 # Amazon Clone
-
-A responsive Amazon homepage clone built using **HTML** and **CSS**.
-
-## 🚀 Live Project
-
-This project recreates the look and layout of the Amazon homepage for learning and practice purposes.
-
-## ✨ Features
-
+A responsive Amazon homepage clone built using **HTML** and **CSS** as part of my web development learning journey.
+---
+## Features
 - Responsive navigation bar
-- Amazon-style search bar
-- Hero banner section
-- Product category boxes
-- Footer section
-- Clean and organized HTML & CSS code
-
-## 🛠️ Technologies Used
-
+- Hero section
+- Shopping category cards
+- Footer
+- Clean and organized layout
+- Pure HTML & CSS (No JavaScript)
+---
+## Technologies Used
 - HTML5
 - CSS3
-
-## 📂 Project Structure
-
-```text
+---
+## Project Structure
 amazon-clone/
 │
 ├── index.html
@@ -41,34 +32,23 @@ amazon-clone/
     ├── box8_image.jpg
     ├── Screenshot1.png
     └── Screenshot2.png
-```
-
-## 🎯 Purpose
-
-This project was created to practice:
-
-- HTML structure
-- CSS Flexbox
-- Layout design
-- Responsive web design
-- Git & GitHub workflow
-
-## 📸 Screenshots
-
-### Homepage
-
-![Homepage](images/screenshot1.png)
-
-### Footer
-
-![Footer](images/screenshot2.png)
-
-## 👩‍💻 Author
-
+---
+## Git & GitHub Workflow
+- Initialized Git repository
+- Created GitHub repository
+- Added project files
+- Committed changes
+- Pushed project to GitHub
+---
+## Screenshots
+![Homepage](images/Screenshot1.png)
+![Footer](images/Screenshot2.png)
+---
+## Author
 **Aliza Sohail**
 
 GitHub: https://github.com/alizasohail103
 
 ---
 
-⭐ This project is part of my web development learning journey.
+⭐ This project is part of my web development learning journey.part of my web development learning journey.
